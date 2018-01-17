@@ -10,6 +10,6 @@ margin:25px;
 }
 
 .n-child section:nth-child(even){
-    border:1px solid green;
+    border:1px solid blue;
 }
 
